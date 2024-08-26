@@ -1,6 +1,6 @@
 # Hierarchy-Plus
 
-Idea插件市场搜索安装 Hierarchy-Plus。
+Idea插件市场搜索安装 Hierarchy-Plus（尚未推送）。
 
 <br>
 
