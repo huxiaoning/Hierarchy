@@ -1,4 +1,10 @@
-# Hierarchy
+# Hierarchy-Plus
+
+Idea插件市场搜索安装 Hierarchy-Plus。
+
+<br>
+
+<br>
 
 重构和对像技术也许是你的武器。但它无法保护你。
 
